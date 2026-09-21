@@ -9,3 +9,5 @@ __pycache__/
 *.xlsx
 *.parquet
 data/
+.DS_Store
+.DS_Store
