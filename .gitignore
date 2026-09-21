@@ -4,10 +4,10 @@ __pycache__/
 .Rproj.user/
 .Rhistory
 
-# Data files (Don't track large files!)
+
 *.csv
 *.xlsx
 *.parquet
 data/
 .DS_Store
-.DS_Store
+
